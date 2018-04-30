@@ -2,9 +2,8 @@ import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
 import {AppComponent} from '../app.component';
 import {ProfileComponent} from '../profile/profile.component';
-import {NavbarComponent} from "../navbar/navbar.component";
-import {Verify} from "crypto";
-import {VerifyComponent} from "../verify/verify.component";
+import {NavbarComponent} from '../navbar/navbar.component';
+import {VerifyComponent} from '../verify/verify.component';
 
 // Routes or Route[]
 const router: Routes = [
